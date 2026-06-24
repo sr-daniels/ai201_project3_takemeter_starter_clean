@@ -2,6 +2,8 @@
 
 A fine-tuned DistilBERT text classifier trained to categorize Reddit posts from r/socialskills into seven labels based on the post's primary purpose. Built for AI201 Project 3.
 
+Video: https://streamable.com/owr0g9
+
 ---
 
 ## What This Project Does
