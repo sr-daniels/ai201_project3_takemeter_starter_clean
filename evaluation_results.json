@@ -1,0 +1,16 @@
+{
+  "baseline_accuracy": 0.7027,
+  "finetuned_accuracy": 0.2973,
+  "improvement": -0.4054,
+  "test_set_size": 37,
+  "label_map": {
+    "conversation_skills": 0,
+    "making_friends": 1,
+    "self_perception": 2,
+    "social_observation": 3,
+    "social_anxiety": 4,
+    "conflict_and_boundaries": 5,
+    "keeping_friends": 6
+  },
+  "model": "distilbert-base-uncased"
+}
